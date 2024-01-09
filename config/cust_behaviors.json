@@ -1,104 +1,138 @@
 [
-  {
-    "code": "grave_pipe",
-    "name": "grave_pipe",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "pipe_pipe",
-    "name": "pipe_pipe",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "plus_kp_n1",
-    "name": "plus_kp_n1",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "left_bracket_kp_n2",
-    "name": "left_bracket_kp_n2",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "left_brace_kp_n3",
-    "name": "left_brace_kp_n3",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "left_parenthesis_kp_n4",
-    "name": "left_parenthesis_kp_n4",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "amps_kp_n5",
-    "name": "amps_kp_n5",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "equal_kp_n6",
-    "name": "equal_kp_n6",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "right_parenthesis_kp_n7",
-    "name": "right_parenthesis_kp_n7",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "right_brace_kp_n8",
-    "name": "right_brace_kp_n8",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "right_bracket_kp_n9",
-    "name": "right_bracket_kp_n9",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "star_kp_n0",
-    "name": "star_kp_n0",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "excl_prcnt",
-    "name": "excl_prcnt",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "dllr_grave",
-    "name": "dllr_grave",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "grave_grave",
-    "name": "grave_grave",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "bslh_hash",
-    "name": "bslh_hash",
-    "params": ["code"],
-    "type": "UD"
-  },
-  {
-    "code": "at_caret",
-    "name": "at_caret",
-    "params": ["code"],
-    "type": "UD"
-  }
+	{
+		"code": "grave_pipe",
+		"name": "grave_pipe",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "pipe_pipe",
+		"name": "pipe_pipe",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "plus_kp_n1",
+		"name": "plus_kp_n1",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "left_bracket_kp_n2",
+		"name": "left_bracket_kp_n2",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "left_brace_kp_n3",
+		"name": "left_brace_kp_n3",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "left_parenthesis_kp_n4",
+		"name": "left_parenthesis_kp_n4",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "amps_kp_n5",
+		"name": "amps_kp_n5",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "equal_kp_n6",
+		"name": "equal_kp_n6",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "right_parenthesis_kp_n7",
+		"name": "right_parenthesis_kp_n7",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "right_brace_kp_n8",
+		"name": "right_brace_kp_n8",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "right_bracket_kp_n9",
+		"name": "right_bracket_kp_n9",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "star_kp_n0",
+		"name": "star_kp_n0",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "excl_prcnt",
+		"name": "excl_prcnt",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "dllr_grave",
+		"name": "dllr_grave",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "grave_grave",
+		"name": "grave_grave",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "bslh_hash",
+		"name": "bslh_hash",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "at_caret",
+		"name": "at_caret",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
 ]
